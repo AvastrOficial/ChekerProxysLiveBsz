@@ -4,3 +4,11 @@
 > Pagiana web donde puedes validar con un achivo js: https://httpbin.org/ip
 <br></br>
 ![image](https://github.com/AvastrOficial/ChekerProxysLiveBsz/assets/91764815/4b52f3b8-474d-49e0-939d-3d7f0f1aa4bc)
+## comando requerido :
+> pip freeze > requirements.txt
+<br></br>
+> pip install -r requirements.txt
+
+
+
+
